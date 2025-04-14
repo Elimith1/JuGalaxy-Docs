@@ -3,23 +3,13 @@
 layout: home
 
 hero:
-  name: "Revue de code TP2"
-  text: "Revue de code pour le TP2"
-  tagline: My great project tagline
+  name: "Travail Pratique 02"
+  tagline: "Revue de code documentée"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: "Page de Mathieu Bellavance"
+      link: /mathieu-bellavance
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: "Page de Samuel St-Hilaire"
+      link: /samuel-st-hilaire
 ---
-

@@ -1,22 +1,23 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Revue de code TP2",
-  description: "Revue de code pour le TP2",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+  base: '/appweb-trpr02/',
 
+  title: "Travail Pratique 02",
+  description: "Revue de code pour le travail pratique 02.",
+  themeConfig: {
+    nav: [
+      { text: 'Accueil', link: '/' },
+      { text: 'Page de Mathieu Bellavance', link: '/mathieu-bellavance' },
+      { text: 'Page de Samuel St-Hilaire', link: '/samuel-st-hilaire' }
+    ],
+    
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Revue de Code',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Page de Mathieu Bellavance', link: '/mathieu-bellavance' },
+          { text: 'Page de Samuel St-Hilaire', link: '/samuel-st-hilaire' }
         ]
       }
     ],
