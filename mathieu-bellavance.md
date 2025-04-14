@@ -1,3 +1,5 @@
+13 avril 2025
+
 # Revue de Code - Mathieu Bellavance
 
 # Par Samuel St-Hilaire
@@ -18,11 +20,10 @@
 
 ## Tests
 
-- Aucun test pour le projet (pas demandé).
+- Aucun test pour le moment
 
 ## Autres
 
-- Aucun problème de sécurité majeur.
 - Le code est optimisé (presque à la perfection).
 - Les algorithmes sont bien optimisés.
-- Aucune couverture de code (aucun test demandé).
+- Aucune couverture de code (aucun test pour l'instant)
