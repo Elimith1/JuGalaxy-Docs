@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/appweb-trpr02/',
+  base: '/JuGalaxy-Docs/',
 
   title: "Travail Pratique 02",
   description: "Revue de code pour le travail pratique 02.",
